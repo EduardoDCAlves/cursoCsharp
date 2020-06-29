@@ -36,7 +36,7 @@ namespace Ex71Cap6
                 }
                 
             }
-
+            Console.WriteLine("Ola");
         }
     }
 }
